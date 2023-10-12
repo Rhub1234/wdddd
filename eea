@@ -1,0 +1,12 @@
+local gameId = game.GameId
+
+if gameId == 13772394625 then
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/2d10bb089f4280f093c9e5af84ca8d9d.lua"))()
+    print("R hub  Football Fusion 2 loaded successfully")
+
+elseif gameId == 13772394625 then 
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/33e520d1296dff82ff9920aa46f20de1.lua"))()
+    print("R HUB  BladeBall loaded successfully")
+else
+    print("R HUB")
+end
